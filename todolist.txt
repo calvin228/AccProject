@@ -1,0 +1,9 @@
+To-do list:
+important - journal id disabled, view journal lookup
+2.validation journal , debit credit fill both
+3.deletetablerow journal 
+4.delete connected to db
+7.chart add button
+8.edit journal
+9.view jurnal close give error
+10.list gl load from database?
